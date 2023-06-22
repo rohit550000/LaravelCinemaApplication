@@ -1,4 +1,4 @@
-<h1>How to run the code</h1>
+<h1>How to run this eye-catching project</h1>
 <ul>
     <li>Clone repo or Download zip file and cd into it</li>
     <li><b>run</b> : composer install</li>
