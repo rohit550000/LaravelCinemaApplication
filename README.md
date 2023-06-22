@@ -21,6 +21,8 @@
 <h2>Fully responsive</h2>
 
 ![image](https://github.com/rohit550000/LaravelCinemaApplication/assets/123115001/17b7d1e7-4fa5-4837-a83f-2f19f40b9bdd)
+![image](https://github.com/rohit550000/LaravelCinemaApplication/assets/123115001/7ee0522f-9e42-4f2e-b296-f847702a33dc)
+
 
 
 
