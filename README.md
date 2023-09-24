@@ -1,7 +1,11 @@
 <h1>How to run this eye-catching project</h1>
 <ul>
     <li>Clone repo or Download zip file and cd into it</li>
+    <li>copy .env.example as .env</li>
     <li><b>run</b> : composer install</li>
+    <li><b>run</b> : php artisan key:generate</li>
+    <li><b>run</b> : php artisan cache:clear</li>
+    <li><b>run</b> : php artisan config:clear</li>
     <li><b>run</b> : php artisan serve</li>
     <li><b>Visit</b> to localhost:8000 in your browser</li>
 </ul>
